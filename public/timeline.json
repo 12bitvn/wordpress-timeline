@@ -131,6 +131,21 @@
         "headline": "WordPress 1.5 launched",
         "text": "<p>WordPress 1.5 got its theme system.</p>"
       }
+    },
+    {
+      "media": {
+        "url": "/img/a-new-logo.jpg",
+        "caption": "The final logo design"
+      },
+      "start_date": {
+        "day": "15",
+        "month": "05",
+        "year": "2005"
+      },
+      "text": {
+        "headline": "A new logo",
+        "text": "<p>The logo was finally decided on May 15th, when Matt sent an email to the mailing list with the subject <strong>I think this is it</strong>.</p>"
+      }
     }
   ]
 }
