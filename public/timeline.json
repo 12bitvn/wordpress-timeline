@@ -2,29 +2,134 @@
   "title": {
     "media": {
       "url": "//www.flickr.com/photos/tm_10001/2310475988/",
-      "caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
+      "caption": "The Story of WordPress.",
       "credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
     },
     "text": {
-      "headline": "Whitney Houston<br/> 1963 - 2012",
-      "text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+      "headline": "The Story of WordPress<br/> 2001 - 2018",
+      "text": "<p>WordPress was born out of a desire for an elegant, well-architectured personal publishing system built on PHP and MySQL and licensed under the GPL. It is the official successor of b2/cafelog. WordPress is modern software, but its roots and development go back to 2001.</p>"
     }
   },
   "events": [
     {
-      "media": {
-        "url": "{{ static_url }}/img/examples/houston/family.jpg",
-        "caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
-        "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
-      },
       "start_date": {
-        "month": "8",
-        "day": "9",
-        "year": "1963"
+        "year": "2001"
       },
       "text": {
-        "headline": "A Musical Heritage",
-        "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+        "headline": "Movable Type launched",
+        "text": "<p>Movable Type is a blogging platform.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/b2admin.png",
+        "caption": "The b2 use interface",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "month": "06",
+        "year": "2001"
+      },
+      "text": {
+        "headline": "b2",
+        "text": "<p>Michel released b2 at Corsica powered by PHP and MySQL.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/matt-first-post.png",
+        "caption": "Matt's first post",
+        "credit": "<a href='https://ma.tt/2002/02/testing-new-system/'>https://ma.tt/2002/02/testing-new-system/</a>"
+      },
+      "start_date": {
+        "day": "06",
+        "month": "02",
+        "year": "2002"
+      },
+      "text": {
+        "headline": "Matt Mullenweg's first post",
+        "text": "<p>Matt Mullenweg published his <a href='https://ma.tt/2002/02/testing-new-system/' target='_blank'>first blog post</a> with Movable Type.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/mike-first-post.png",
+        "caption": "Mike's first post",
+        "credit": "<a href='https://journalized.zed1.com/archives/2002/04/21/welcome/'>https://journalized.zed1.com/archives/2002/04/21/welcome/</a>"
+      },
+      "start_date": {
+        "day": "21",
+        "month": "04",
+        "year": "2002"
+      },
+      "text": {
+        "headline": "Mike Little's first post",
+        "text": "<p>A few months later, Mike Little published his first post with <strong>b2</strong></p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2003"
+      },
+      "text": {
+        "headline": "b2's trouble",
+        "text": "<p>Michel <a href='https://zengun.org/weblog/archives/2002/05/jobless/' target='_blank'>lost his job</a> and never went back to b2.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "<blockquote>Matt, If you’re serious about forking b2 I would be interested in contributing. I’m sure there are one or two others in the community who would be too. Perhaps a post to the B2 forum, suggesting a fork would be a good starting point.</blockquote>",
+        "caption": "Mike responsed on the Matt's post",
+        "credit": "<a href='https://ma.tt/2003/01/the-blogging-software-dilemma/#comment-445'>https://ma.tt/2003/01/the-blogging-software-dilemma/#comment-445</a>"
+      },
+      "start_date": {
+        "day": "01",
+        "month": "04",
+        "year": "2003"
+      },
+      "text": {
+        "headline": "Matt forked b2",
+        "text": "<p>On April 1, 2003, Matt created a new branch of b2 on SourceForge.</p><p><em>Matt was not the only one who forked b2, there was many developers that forked b2 to create their own platform.</em></p>"
+      }
+    },
+    {
+      "start_date": {
+        "day": "27",
+        "month": "05",
+        "year": "2003"
+      },
+      "text": {
+        "headline": "WordPress 0.7 was released",
+        "text": "<p>As the first official public release of WordPress.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/plugin-directory-2005.jpg",
+        "caption": "The first version of the WordPress Plugin Directory, in late 2005",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%202/11-birth-of-wp-hackers.md' target='_blank'>https://github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "day": "22",
+        "month": "05",
+        "year": "2004"
+      },
+      "text": {
+        "headline": "WordPress 1.2 launched",
+        "text": "<p>Publins were introduced, the first plugin is Hello Dolly.<br/>Internationalization was another major advancement.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/kubrick.jpg",
+        "caption": "The default theme of WordPress until 2010"
+      },
+      "start_date": {
+        "year": "2005"
+      },
+      "text": {
+        "headline": "WordPress 1.5 launched",
+        "text": "<p>WordPress 1.5 got its theme system.</p>"
       }
     }
   ]

@@ -15,7 +15,9 @@
     <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
     <script>
         var timeline_json = '/timeline.json'
-        window.timeline = new TL.Timeline('timeline-embed', timeline_json)
+        window.timeline = new TL.Timeline('timeline-embed', timeline_json, {
+            initial_zoom: 1
+        })
     </script>
 </body>
 
