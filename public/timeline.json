@@ -234,6 +234,22 @@
     },
     {
       "media": {
+        "url": "/img/wordpress-3-8.jpg",
+        "caption": "New design",
+        "credit":"<a href='https://easywpguide.com/2013/12/first-look-wordpress-3-8/' target='_blank'>https://easywpguide.com/2013/12/first-look-wordpress-3-8/</a>"
+      },
+      "start_date": {
+        "day": "12",
+        "month": "12",
+        "year": "2013"
+      },
+      "text": {
+        "headline": "WordPress 3.8 - Parker<br />Introduced a modern new design",
+        "text": "<p>WordPress has gotten a facelift. 3.8 brings a fresh new look to the entire admin dashboard. Gone are overbearing gradients and dozens of shades of grey — bring on a bigger, bolder, more colorful design!</p>"
+      }
+    },
+    {
+      "media": {
         "url": "/img/wordcamp-hanoi-2014.png",
         "caption": "WordCamp Hanoi 2014"
       },
