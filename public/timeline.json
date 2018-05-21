@@ -146,6 +146,104 @@
         "headline": "A new logo",
         "text": "<p>The logo was finally decided on May 15th, when Matt sent an email to the mailing list with the subject <strong>I think this is it</strong>.</p>"
       }
+    },
+    {
+      "media": {
+        "url": "/img/wordpress-2-0.png",
+        "caption": "WordPress 2.0 admin interface",
+        "credit": "<a href='http://www.wpbeginner.com/news/the-history-of-wordpress/'>http://www.wpbeginner.com/news/the-history-of-wordpress/</a>"
+      },
+      "start_date": {
+        "month": "12",
+        "year": "2005"
+      },
+      "text": {
+        "headline": "WordPress 2.0",
+        "text": "<p>WordPress 2.0 was released with a new admin dashboard.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/wcsf_2006_sotw_matt.jpg",
+        "caption": "Matt giving his State of the Word presentation. (cc license Scott Beale (Laughing Squid))"
+      },
+      "start_date": {
+        "year": "2006"
+      },
+      "text": {
+        "headline": "The first WordCamp",
+        "text": "<p>It was WordPress San Francisco in 2006.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2007"
+      },
+      "text": {
+        "headline": "WordPress 2.2",
+        "text": "<p>Introduced the Widgets.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/wordpress-2-5.jpg",
+        "caption": "WordPress 2.5 admin interface",
+        "credit":"<a href='http://www.blogbloke.com/wordpress-25-released-come-get-yours/' target='_blank'>http://www.blogbloke.com/wordpress-25-released-come-get-yours/</a>"
+      },
+      "start_date": {
+        "day": "29",
+        "month": "03",
+        "year": "2008"
+      },
+      "text": {
+        "headline": "WordPress 2.5",
+        "text": "<p>It was released with a new administration UI design by Happy Cog, and introduced the dashboard widget system and the shortcode API.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/wordpress-2-7.png",
+        "caption": "WordPress 2.7 admin interface",
+        "credit":"<a href='https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/' target='_blank'>https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/</a>"
+      },
+      "start_date": {
+        "day": "10",
+        "month": "12",
+        "year": "2008"
+      },
+      "text": {
+        "headline": "WordPress 2.7",
+        "text": "<p>Redesigned the administration UI to improve usability and make the admin tool more customizable. Version 2.7 also introduced automatic upgrading, built-in plugin installation, sticky posts, comment threading/paging/replies and a new API, bulk management, and inline documentation.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/2011.jpg",
+        "caption": "Twenty Ten",
+        "credit":"<a href='https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/' target='_blank'>https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/</a>"
+      },
+      "start_date": {
+        "day": "17",
+        "month": "06",
+        "year": "2010"
+      },
+      "text": {
+        "headline": "WordPress 3.0",
+        "text": "<p>It introduced custom post types, made custom taxonomies simpler, added custom menu management, added new API's for custom headers and custom backgrounds, introduced a new default theme called <strong>Twenty Ten</strong> (which started the tradition of a new default theme for each year) and allowed the management of multiple sites (called MultiSite).</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/wordcamp-hanoi-2014.png",
+        "caption": "WordCamp Hanoi 2014"
+      },
+      "start_date": {
+        "year": "2014"
+      },
+      "text": {
+        "headline": "WordCamp Hanoi 2014",
+        "text": "<p>The First WordCamp in Vietnam</p><p><em>It was the special event that marked the growth up of Vietnamese WordPress Community. So I decided to put it in this timeline.</em></p>"
+      }
     }
   ]
 }
