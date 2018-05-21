@@ -315,6 +315,19 @@
         "headline": "Vertison 5",
         "text": "<ol><li>Gutenberg</li></ol>"
       }
+    },
+    {
+      "media": {
+        "url": "https://make.wordpress.org/core/files/2017/10/gutenberg-typing-1_6.gif"
+      },
+      "start_date": {
+        "month": "01",
+        "year": "2019"
+      },
+      "text": {
+        "headline": "Summary",
+        "text": "<ol><li>Start with passion.</li><li>Responsibility and vision: GPL and Automattic</li><li>Focus on simplicity for users who do not know much about technology.</li><li>Developed regularly and actively.</li></ol>"
+      }
     }
   ]
 }
