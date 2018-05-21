@@ -2,6 +2,8 @@
     margin-bottom: 15px;
 }
 
-.tl-timeline p {
+.tl-timeline p,
+.tl-timeline ol,
+.tl-timeline ul {
     font-size: 18px;
 }
