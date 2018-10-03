@@ -275,6 +275,19 @@
         "text": "<ol><li>REST API</li><li>Post Type Templates</li><li>Customizer Improvements</li></ol>"
       }
     },
+     {
+      "media": {
+        "url": "/img/graphusers.png"
+      },
+      "start_date": {
+        "month": "02",
+        "year": "2017"
+      },
+      "text": {
+        "headline": "58.7%",
+        "text": "<p>58.7% of all the websites whose content management systems are known run WordPress</p><p>This is over 27% of the top 10 million websites.</p>"
+      }
+    },
     {
       "media": {
         "url": "https://codex.wordpress.org/images/thumb/8/8f/widgets-with-all-four.png/800px-widgets-with-all-four.png"
