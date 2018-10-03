@@ -1,5 +1,7 @@
 # WordPress Timeline
 
+The brief history of WordPress.
+
 ## Contribute
 
 Install packages
