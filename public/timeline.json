@@ -104,6 +104,17 @@
       }
     },
     {
+      "start_date": {
+        "day": "03",
+        "month": "01",
+        "year": "2004"
+      },
+      "text": {
+        "headline": "WordPress 1.0 (Code name: Davis) was released",
+        "text": "<p>Added search engine friendly permanent links, multiple categories, dead simple installation and upgrade, comment moderation, XFN support, Atom support.</p>"
+      }
+    },
+    {
       "media": {
         "url": "/img/plugin-directory-2005.jpg",
         "caption": "The first version of the WordPress Plugin Directory, in late 2005",
@@ -115,7 +126,7 @@
         "year": "2004"
       },
       "text": {
-        "headline": "WordPress 1.2 launched",
+        "headline": "WordPress 1.2 (Code name: Mingus) launched",
         "text": "<p>Plugins were introduced, the first plugin is Hello Dolly.<br/>Internationalization was another major advancement.</p>"
       }
     },
@@ -125,10 +136,12 @@
         "caption": "The default theme of WordPress until 2010"
       },
       "start_date": {
+        "day": "17",
+        "month": "02",
         "year": "2005"
       },
       "text": {
-        "headline": "WordPress 1.5 launched",
+        "headline": "WordPress 1.5 (Code name: Strayhorn) launched",
         "text": "<p>WordPress 1.5 got its theme system.</p>"
       }
     },
@@ -154,11 +167,12 @@
         "credit": "<a href='http://www.wpbeginner.com/news/the-history-of-wordpress/'>http://www.wpbeginner.com/news/the-history-of-wordpress/</a>"
       },
       "start_date": {
+        "day": "31",
         "month": "12",
         "year": "2005"
       },
       "text": {
-        "headline": "WordPress 2.0",
+        "headline": "WordPress 2.0 (Code name: Duke) was released",
         "text": "<p>WordPress 2.0 was released with a new admin dashboard.</p>"
       }
     },
@@ -177,11 +191,35 @@
     },
     {
       "start_date": {
+        "day": "22",
+        "month": "01",
         "year": "2007"
       },
       "text": {
-        "headline": "WordPress 2.2",
+        "headline": "WordPress 2.1 (Code name: Ella) was released",
+        "text": "<p>Corrected security issues, redesigned interface, enhanced editing tools (including integrated spell check and auto save), and improved content management options.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "day": "16",
+        "month": "05",
+        "year": "2007"
+      },
+      "text": {
+        "headline": "WordPress 2.2 (Code name: Getz) was released",
         "text": "<p>Introduced the Widgets.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "day": "24",
+        "month": "12",
+        "year": "2007"
+      },
+      "text": {
+        "headline": "WordPress 2.3 (Code name: Dexter) was released",
+        "text": "<p>Added native tagging support, new taxonomy system for categories, and easy notification of updates, fully supports Atom 1.0, with the publishing protocol, and some much needed security fixes.</p>"
       }
     },
     {
@@ -196,8 +234,19 @@
         "year": "2008"
       },
       "text": {
-        "headline": "WordPress 2.5",
+        "headline": "WordPress 2.5 (Code name: Brecker) was released",
         "text": "<p>It was released with a new administration UI design by Happy Cog, and introduced the dashboard widget system and the shortcode API.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "day": "15",
+        "month": "07",
+        "year": "2008"
+      },
+      "text": {
+        "headline": "WordPress 2.6 (Code name: Tyner) was released",
+        "text": "<p>Added native tagging support, new taxonomy system for categories, and easy notification of updates, fully supports Atom 1.0, with the publishing protocol, and some much needed security fixes.</p>"
       }
     },
     {
@@ -207,18 +256,40 @@
         "credit":"<a href='https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/' target='_blank'>https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/</a>"
       },
       "start_date": {
-        "day": "10",
+        "day": "11",
         "month": "12",
         "year": "2008"
       },
       "text": {
-        "headline": "WordPress 2.7",
+        "headline": "WordPress 2.7 (Code name: Coltrane) was released",
         "text": "<p>Redesigned the administration UI to improve usability and make the admin tool more customizable. Version 2.7 also introduced automatic upgrading, built-in plugin installation, sticky posts, comment threading/paging/replies and a new API, bulk management, and inline documentation.</p>"
       }
     },
     {
+      "start_date": {
+        "day": "10",
+        "month": "06",
+        "year": "2009"
+      },
+      "text": {
+        "headline": "WordPress 2.8 (Code name: Dexter) was released",
+        "text": "<p>Added improvements in speed, automatic installing of themes from within administration interface, introduces the CodePress editor for syntax highlighting and a redesigned widget interface.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "day": "19",
+        "month": "12",
+        "year": "2009"
+      },
+      "text": {
+        "headline": "WordPress 2.9 (Code name: Carmen) was released",
+        "text": "<p>Added global undo, built-in image editor, batch plugin updating, and many less visible tweaks.</p>"
+      }
+    },
+    {
       "media": {
-        "url": "/img/2011.jpg",
+        "url": "/img/2010.jpg",
         "caption": "Twenty Ten",
         "credit":"<a href='https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/' target='_blank'>https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/</a>"
       },
@@ -228,8 +299,95 @@
         "year": "2010"
       },
       "text": {
-        "headline": "WordPress 3.0",
+        "headline": "WordPress 3.0 (Code name: Thelonious) was released",
         "text": "<p>It introduced custom post types, made custom taxonomies simpler, added custom menu management, added new API's for custom headers and custom backgrounds, introduced a new default theme called <strong>Twenty Ten</strong> (which started the tradition of a new default theme for each year) and allowed the management of multiple sites (called MultiSite).</p>"
+      }
+    },
+    {
+      "start_date": {
+        "day": "23",
+        "month": "02",
+        "year": "2011"
+      },
+      "text": {
+        "headline": "WordPress 3.1 (Code name: Reinhardt) was released",
+        "text": "<p>Added the Admin Bar, which is displayed on all blog pages when an admin is logged in, and Post Format, best explained as a Tumblr like micro-blogging feature. It provides easy access to many critical functions, such as comments and updates. Includes internal linking abilities, a newly streamlined writing interface, and many other changes.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "day": "04",
+        "month": "07",
+        "year": "2011"
+      },
+      "text": {
+        "headline": "WordPress 3.2 (Code name: Gershwin) was released",
+        "text": "<p>Focused on making WordPress faster and lighter. Released only four months after version 3.1, reflecting the growing speed of development in the WordPress community.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "day": "12",
+        "month": "12",
+        "year": "2011"
+      },
+      "text": {
+        "headline": "WordPress 3.3 (Code name: Sonny) was released",
+        "text": "<p>Focused on making WordPress friendlier for beginners and tablet computer users.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "day": "13",
+        "month": "06",
+        "year": "2012"
+      },
+      "text": {
+        "headline": "WordPress 3.4 (Code name: Green) was released",
+        "text": "<p>Focused on improvements to theme customization, Twitter integration and several minor changes.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/2012.png",
+        "caption": "Twenty Twelve",
+        "credit":"<a href='https://wordpress.org/themes/twentytwelve/' target='_blank'>Wordpress Themes</a>"
+      },
+      "start_date": {
+        "day": "11",
+        "month": "12",
+        "year": "2012"
+      },
+      "text": {
+        "headline": "WordPress 3.5 (Code name: Elvin) was released",
+        "text": "<p>Support for the Retina Display, color picker, new default theme <strong>Twenty Twelve</strong>, improved image workflow.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/2013.png",
+        "caption": "Twenty Thirteen",
+        "credit":"<a href='https://wordpress.org/news/2013/08/oscar/' target='_blank'>Wordpress Blog</a>"
+      },
+      "start_date": {
+        "day": "01",
+        "month": "08",
+        "year": "2013"
+      },
+      "text": {
+        "headline": "WordPress 3.6 (Code name: Oscar) was released",
+        "text": "<p>New default theme <strong>Twenty Thirteen</strong>, admin enhancements, post formats UI update, menus UI improvements, new revision system, auto save and post locking.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "day": "24",
+        "month": "10",
+        "year": "2013"
+      },
+      "text": {
+        "headline": "WordPress 3.7 (Code name: Basie) was released",
+        "text": "<p>Automatically apply maintenance and security updates in the background, stronger password recommendations, support for automatically installing the right language files and keeping them up to date.</p>"
       }
     },
     {
