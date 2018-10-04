@@ -5,7 +5,8 @@
 }
 
 .tl-timeline p a:hover,
-.tl-timeline p a:active {
+.tl-timeline p a:active,
+.tl-timeline p a:focus {
   text-decoration: none;
   color: #02b875;
 }
