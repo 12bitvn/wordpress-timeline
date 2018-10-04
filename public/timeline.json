@@ -94,17 +94,6 @@
     },
     {
       "start_date": {
-        "day": "27",
-        "month": "05",
-        "year": "2003"
-      },
-      "text": {
-        "headline": "WordPress 0.7 was released",
-        "text": "<p>As the first official public release of WordPress.</p>"
-      }
-    },
-    {
-      "start_date": {
         "day": "03",
         "month": "01",
         "year": "2004"
@@ -147,6 +136,62 @@
     },
     {
       "media": {
+        "url": "/img/wordpress-2-0.png",
+        "caption": "WordPress 2.0 admin interface",
+        "credit": "<a href='http://www.wpbeginner.com/news/the-history-of-wordpress/'>http://www.wpbeginner.com/news/the-history-of-wordpress/</a>"
+      },
+      "start_date": {
+        "day": "31",
+        "month": "12",
+        "year": "2005"
+      },
+      "text": {
+        "headline": "WordPress 2.0 (Code name: Duke) was released",
+        "text": "<p>WordPress 2.0 was released with a new admin dashboard.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "day": "27",
+        "month": "05",
+        "year": "2003"
+      },
+      "text": {
+        "headline": "WordPress 0.7 was released",
+        "text": "<p>As the first official public release of WordPress.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/plugin-directory-2005.jpg",
+        "caption": "The first version of the WordPress Plugin Directory, in late 2005",
+        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%202/11-birth-of-wp-hackers.md' target='_blank'>https://github.com/WordPress/book</a>"
+      },
+      "start_date": {
+        "day": "22",
+        "month": "05",
+        "year": "2004"
+      },
+      "text": {
+        "headline": "WordPress 1.2 launched",
+        "text": "<p>Plugins were introduced, the first plugin is Hello Dolly.<br/>Internationalization was another major advancement.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "/img/kubrick.jpg",
+        "caption": "The default theme of WordPress until 2010"
+      },
+      "start_date": {
+        "year": "2005"
+      },
+      "text": {
+        "headline": "WordPress 1.5 launched",
+        "text": "<p>WordPress 1.5 got its theme system.</p>"
+      }
+    },
+    {
+      "media": {
         "url": "/img/a-new-logo.jpg",
         "caption": "The final logo design"
       },
@@ -167,12 +212,11 @@
         "credit": "<a href='http://www.wpbeginner.com/news/the-history-of-wordpress/'>http://www.wpbeginner.com/news/the-history-of-wordpress/</a>"
       },
       "start_date": {
-        "day": "31",
         "month": "12",
         "year": "2005"
       },
       "text": {
-        "headline": "WordPress 2.0 (Code name: Duke) was released",
+        "headline": "WordPress 2.0",
         "text": "<p>WordPress 2.0 was released with a new admin dashboard.</p>"
       }
     },
@@ -226,7 +270,7 @@
       "media": {
         "url": "/img/wordpress-2-5.jpg",
         "caption": "WordPress 2.5 admin interface",
-        "credit":"<a href='http://www.blogbloke.com/wordpress-25-released-come-get-yours/' target='_blank'>http://www.blogbloke.com/wordpress-25-released-come-get-yours/</a>"
+        "credit": "<a href='http://www.blogbloke.com/wordpress-25-released-come-get-yours/' target='_blank'>http://www.blogbloke.com/wordpress-25-released-come-get-yours/</a>"
       },
       "start_date": {
         "day": "29",
@@ -253,7 +297,7 @@
       "media": {
         "url": "/img/wordpress-2-7.png",
         "caption": "WordPress 2.7 admin interface",
-        "credit":"<a href='https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/' target='_blank'>https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/</a>"
+        "credit": "<a href='https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/' target='_blank'>https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/</a>"
       },
       "start_date": {
         "day": "11",
@@ -291,7 +335,7 @@
       "media": {
         "url": "/img/2010.jpg",
         "caption": "Twenty Ten",
-        "credit":"<a href='https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/' target='_blank'>https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/</a>"
+        "credit": "<a href='https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/' target='_blank'>https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/</a>"
       },
       "start_date": {
         "day": "17",
@@ -351,7 +395,7 @@
       "media": {
         "url": "/img/2012.png",
         "caption": "Twenty Twelve",
-        "credit":"<a href='https://wordpress.org/themes/twentytwelve/' target='_blank'>Wordpress Themes</a>"
+        "credit": "<a href='https://wordpress.org/themes/twentytwelve/' target='_blank'>Wordpress Themes</a>"
       },
       "start_date": {
         "day": "11",
@@ -367,7 +411,7 @@
       "media": {
         "url": "/img/2013.png",
         "caption": "Twenty Thirteen",
-        "credit":"<a href='https://wordpress.org/news/2013/08/oscar/' target='_blank'>Wordpress Blog</a>"
+        "credit": "<a href='https://wordpress.org/news/2013/08/oscar/' target='_blank'>Wordpress Blog</a>"
       },
       "start_date": {
         "day": "01",
@@ -394,7 +438,7 @@
       "media": {
         "url": "/img/wordpress-3-8.jpg",
         "caption": "New design",
-        "credit":"<a href='https://easywpguide.com/2013/12/first-look-wordpress-3-8/' target='_blank'>https://easywpguide.com/2013/12/first-look-wordpress-3-8/</a>"
+        "credit": "<a href='https://easywpguide.com/2013/12/first-look-wordpress-3-8/' target='_blank'>https://easywpguide.com/2013/12/first-look-wordpress-3-8/</a>"
       },
       "start_date": {
         "day": "12",
@@ -446,7 +490,7 @@
         "headline": "Version 4.1",
         "text": "<ol><li>Twenty Fifteen Theme released</li><li>Distraction-free writing</li><li>Choose a language (You can switch to any translation on the General Settings screen.)</li><li>Log out everywhere</li><li>Vine embeds (Embedding videos from Vine)</li><li>Plugin recommendations (The plugin installer suggests plugins for you to try)</li></ol>"
       }
-    }, 
+    },
     {
       "media": {
         "url": "https://videos.files.wordpress.com/e9kH4FzP/wordpress-4-2_hd.mp4"
@@ -460,7 +504,7 @@
         "headline": "Version 4.2",
         "text": "<ol><li>share content easier (Improved Press This plugin)</li><li>Extended character support (Including native Chinese, Japanese, and Korean characters, musical and mathematical symbols, hieroglyphs and emoji support.</li><li>Streamlined plugin updates</li></ol>"
       }
-    }, 
+    },
     {
       "media": {
         "url": "https://videos.files.wordpress.com/T54Iy7Tw/video-7601c95191_dvd.mp4"
@@ -474,7 +518,7 @@
         "headline": "Version 4.3",
         "text": "<ol><li>Menus in the Customizer</li><li>Formatting Shortcuts</li><li>Site Icons</li><li>Better Passwords</li></ol>"
       }
-    }, 
+    },
     {
       "media": {
         "url": "https://videos.files.wordpress.com/J44FHXvg/video-0e8f70a936_dvd.mp4"
@@ -488,7 +532,7 @@
         "headline": "Version 4.4",
         "text": "<ol><li>Twenty Sixteen Theme released</li><li>Responsive Images (WordPress now takes a smarter approach to displaying appropriate image sizes on any device)</li><li>Embeds Feature (Now you can embed your posts on other WordPress sites)</li><li>REST API infrastructure</li></ol>"
       }
-    }, 
+    },
     {
       "media": {
         "url": "https://videos.files.wordpress.com/scFdjVo6/video-604c4abe08_dvd.mp4"
@@ -502,7 +546,7 @@
         "headline": "Version 4.5",
         "text": "<ol><li>Editor Improvements</li><li>Live Responsive Previews(View mobile, tablet, and desktop previews in customizer)</li><li>Custom Logos(Themes can now support logos for your business or brand)</li></ol>"
       }
-    }, 
+    },
     {
       "media": {
         "url": "https://videos.files.wordpress.com/GbdhpGF3/video-25313e7f01_hd.mp4"
@@ -531,7 +575,7 @@
         "text": "<ol><li>REST API</li><li>Post Type Templates</li><li>Customizer Improvements</li></ol>"
       }
     },
-     {
+    {
       "media": {
         "url": "/img/graphusers.png"
       },
@@ -574,15 +618,18 @@
     },
     {
       "media": {
-        "url": "https://make.wordpress.org/core/files/2017/10/gutenberg-typing-1_6.gif"
+        "url": "https://make.wordpress.org/core/files/2017/10/gutenberg-typing-1_6.gif",
+        "caption": "WordPress 5.0 with Gutenberg - the new block editor",
+        "credit": "<a href='https://make.wordpress.org/core/5-0/' target='_blank'>https://make.wordpress.org/core/5-0/</a>"
       },
       "start_date": {
-        "month": "9",
+        "day": "19",
+        "month": "11",
         "year": "2018"
       },
       "text": {
-        "headline": "Version 5",
-        "text": "<ol><li>Gutenberg</li></ol>"
+        "headline": "Version 5.0",
+        "text": "<p>As per <a href='https://make.wordpress.org/core/5-0/' target='_blank'>WordPress 5.0 Development Cycle</a> page, WordPress 5.0 is schedule to be released on November 19, 2018. It will be the major release of 2018, including the new block editor, and the Twenty Nineteen theme.</p><ol><li>Gutenberg - new block editor</li><li>Twenty Nineteen theme</li></ol>"
       }
     },
     {
