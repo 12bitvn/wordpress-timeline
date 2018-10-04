@@ -26,13 +26,13 @@ An example of milestone in `json` format:
         "url": "/img/matt-first-post.png",
         "caption": "Matt's first post",
         "credit": "<a href='https://ma.tt/2002/02/testing-new-system/'>https://ma.tt/2002/02/testing-new-system/</a>"
-        },
-        "start_date": {
+    },
+    "start_date": {
         "day": "06",
         "month": "02",
         "year": "2002"
-        },
-        "text": {
+    },
+    "text": {
         "headline": "Matt Mullenweg's first post",
         "text": "<p>Matt Mullenweg published his <a href='https://ma.tt/2002/02/testing-new-system/' target='_blank'>first blog post</a> with Movable Type.</p>"
     }
