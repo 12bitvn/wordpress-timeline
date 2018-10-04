@@ -6,6 +6,7 @@
 
 .tl-timeline p a:hover,
 .tl-timeline p a:active {
+  text-decoration: none;
   color: #02b875;
 }
 
