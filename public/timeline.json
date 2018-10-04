@@ -11,336 +11,391 @@
     }
   },
   "events": [
+  {
+    "start_date":
     {
-      "start_date": {
-        "year": "2001"
-      },
-      "text": {
-        "headline": "Movable Type launched",
-        "text": "<p>Movable Type is a blogging platform.</p>"
-      }
+      "year": "2001"
     },
-    {
-      "media": {
-        "url": "/img/b2admin.png",
-        "caption": "The b2 use interface",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
-      },
-      "start_date": {
-        "month": "06",
-        "year": "2001"
-      },
-      "text": {
-        "headline": "b2",
-        "text": "<p>Michel released b2 at Corsica powered by PHP and MySQL.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/matt-first-post.png",
-        "caption": "Matt's first post",
-        "credit": "<a href='https://ma.tt/2002/02/testing-new-system/'>https://ma.tt/2002/02/testing-new-system/</a>"
-      },
-      "start_date": {
-        "day": "06",
-        "month": "02",
-        "year": "2002"
-      },
-      "text": {
-        "headline": "Matt Mullenweg's first post",
-        "text": "<p>Matt Mullenweg published his <a href='https://ma.tt/2002/02/testing-new-system/' target='_blank'>first blog post</a> with Movable Type.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/mike-first-post.png",
-        "caption": "Mike's first post",
-        "credit": "<a href='https://journalized.zed1.com/archives/2002/04/21/welcome/'>https://journalized.zed1.com/archives/2002/04/21/welcome/</a>"
-      },
-      "start_date": {
-        "day": "21",
-        "month": "04",
-        "year": "2002"
-      },
-      "text": {
-        "headline": "Mike Little's first post",
-        "text": "<p>A few months later, Mike Little published his first post with <strong>b2</strong></p>"
-      }
-    },
-    {
-      "start_date": {
-        "year": "2003"
-      },
-      "text": {
-        "headline": "b2's trouble",
-        "text": "<p>Michel <a href='https://zengun.org/weblog/archives/2002/05/jobless/' target='_blank'>lost his job</a> and never went back to b2.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "<blockquote>Matt, If you’re serious about forking b2 I would be interested in contributing. I’m sure there are one or two others in the community who would be too. Perhaps a post to the B2 forum, suggesting a fork would be a good starting point.</blockquote>",
-        "caption": "Mike responsed on the Matt's post",
-        "credit": "<a href='https://ma.tt/2003/01/the-blogging-software-dilemma/#comment-445'>https://ma.tt/2003/01/the-blogging-software-dilemma/#comment-445</a>"
-      },
-      "start_date": {
-        "day": "01",
-        "month": "04",
-        "year": "2003"
-      },
-      "text": {
-        "headline": "Matt forked b2",
-        "text": "<p>On April 1, 2003, Matt created a new branch of b2 on SourceForge.</p><p><em>Matt was not the only one who forked b2, there was many developers that forked b2 to create their own platform.</em></p>"
-      }
-    },
-    {
-      "start_date": {
-        "day": "27",
-        "month": "05",
-        "year": "2003"
-      },
-      "text": {
-        "headline": "WordPress 0.7 was released",
-        "text": "<p>As the first official public release of WordPress.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/plugin-directory-2005.jpg",
-        "caption": "The first version of the WordPress Plugin Directory, in late 2005",
-        "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%202/11-birth-of-wp-hackers.md' target='_blank'>https://github.com/WordPress/book</a>"
-      },
-      "start_date": {
-        "day": "22",
-        "month": "05",
-        "year": "2004"
-      },
-      "text": {
-        "headline": "WordPress 1.2 launched",
-        "text": "<p>Plugins were introduced, the first plugin is Hello Dolly.<br/>Internationalization was another major advancement.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/kubrick.jpg",
-        "caption": "The default theme of WordPress until 2010"
-      },
-      "start_date": {
-        "year": "2005"
-      },
-      "text": {
-        "headline": "WordPress 1.5 launched",
-        "text": "<p>WordPress 1.5 got its theme system.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/a-new-logo.jpg",
-        "caption": "The final logo design"
-      },
-      "start_date": {
-        "day": "15",
-        "month": "05",
-        "year": "2005"
-      },
-      "text": {
-        "headline": "A new logo",
-        "text": "<p>The logo was finally decided on May 15th, when Matt sent an email to the mailing list with the subject <strong>I think this is it</strong>.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/wordpress-2-0.png",
-        "caption": "WordPress 2.0 admin interface",
-        "credit": "<a href='http://www.wpbeginner.com/news/the-history-of-wordpress/'>http://www.wpbeginner.com/news/the-history-of-wordpress/</a>"
-      },
-      "start_date": {
-        "month": "12",
-        "year": "2005"
-      },
-      "text": {
-        "headline": "WordPress 2.0",
-        "text": "<p>WordPress 2.0 was released with a new admin dashboard.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/wcsf_2006_sotw_matt.jpg",
-        "caption": "Matt giving his State of the Word presentation. (cc license Scott Beale (Laughing Squid))"
-      },
-      "start_date": {
-        "year": "2006"
-      },
-      "text": {
-        "headline": "The first WordCamp",
-        "text": "<p>It was WordPress San Francisco in 2006.</p>"
-      }
-    },
-    {
-      "start_date": {
-        "year": "2007"
-      },
-      "text": {
-        "headline": "WordPress 2.2",
-        "text": "<p>Introduced the Widgets.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/wordpress-2-5.jpg",
-        "caption": "WordPress 2.5 admin interface",
-        "credit":"<a href='http://www.blogbloke.com/wordpress-25-released-come-get-yours/' target='_blank'>http://www.blogbloke.com/wordpress-25-released-come-get-yours/</a>"
-      },
-      "start_date": {
-        "day": "29",
-        "month": "03",
-        "year": "2008"
-      },
-      "text": {
-        "headline": "WordPress 2.5",
-        "text": "<p>It was released with a new administration UI design by Happy Cog, and introduced the dashboard widget system and the shortcode API.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/wordpress-2-7.png",
-        "caption": "WordPress 2.7 admin interface",
-        "credit":"<a href='https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/' target='_blank'>https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/</a>"
-      },
-      "start_date": {
-        "day": "10",
-        "month": "12",
-        "year": "2008"
-      },
-      "text": {
-        "headline": "WordPress 2.7",
-        "text": "<p>Redesigned the administration UI to improve usability and make the admin tool more customizable. Version 2.7 also introduced automatic upgrading, built-in plugin installation, sticky posts, comment threading/paging/replies and a new API, bulk management, and inline documentation.</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/2011.jpg",
-        "caption": "Twenty Ten",
-        "credit":"<a href='https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/' target='_blank'>https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/</a>"
-      },
-      "start_date": {
-        "day": "17",
-        "month": "06",
-        "year": "2010"
-      },
-      "text": {
-        "headline": "WordPress 3.0",
-        "text": "<p>It introduced custom post types, made custom taxonomies simpler, added custom menu management, added new API's for custom headers and custom backgrounds, introduced a new default theme called <strong>Twenty Ten</strong> (which started the tradition of a new default theme for each year) and allowed the management of multiple sites (called MultiSite).</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/wordpress-3-8.jpg",
-        "caption": "New design",
-        "credit":"<a href='https://easywpguide.com/2013/12/first-look-wordpress-3-8/' target='_blank'>https://easywpguide.com/2013/12/first-look-wordpress-3-8/</a>"
-      },
-      "start_date": {
-        "day": "12",
-        "month": "12",
-        "year": "2013"
-      },
-      "text": {
-        "headline": "WordPress 3.8 - Parker<br />Introduced a modern new design",
-        "text": "<p>WordPress has gotten a facelift. 3.8 brings a fresh new look to the entire admin dashboard. Gone are overbearing gradients and dozens of shades of grey — bring on a bigger, bolder, more colorful design!</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "/img/wordcamp-hanoi-2014.png",
-        "caption": "WordCamp Hanoi 2014"
-      },
-      "start_date": {
-        "year": "2014"
-      },
-      "text": {
-        "headline": "WordCamp Hanoi 2014",
-        "text": "<p>The First WordCamp in Vietnam</p><p><em>It was the special event that marked the growth up of Vietnamese WordPress Community. So I decided to put it in this timeline.</em></p>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://videos.files.wordpress.com/AHz0Ca46/wp4-7-vaughan-r8-mastered_hd.mp4"
-      },
-      "start_date": {
-        "day": "06",
-        "month": "12",
-        "year": "2016"
-      },
-      "text": {
-        "headline": "Version 4.7",
-        "text": "<ol><li>REST API</li><li>Post Type Templates</li><li>Customizer Improvements</li></ol>"
-      }
-    },
-     {
-      "media": {
-        "url": "/img/graphusers.png"
-      },
-      "start_date": {
-        "month": "02",
-        "year": "2017"
-      },
-      "text": {
-        "headline": "58.7%",
-        "text": "<p>58.7% of all the websites whose content management systems are known run WordPress</p><p>This is over 27% of the top 10 million websites.</p><p>Source: https://w3techs.com/technologies/overview/content_management/all/</p>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://codex.wordpress.org/images/thumb/8/8f/widgets-with-all-four.png/800px-widgets-with-all-four.png"
-      },
-      "start_date": {
-        "day": "08",
-        "month": "06",
-        "year": "2017"
-      },
-      "text": {
-        "headline": "Version 4.8",
-        "text": "<ol><li>Dream widgets have been added: Image, video, audio, rich text.</li><li>Nearby WordPress Events</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://codex.wordpress.org/images/b/b6/customizer4_9-schedule.jpg"
-      },
-      "start_date": {
-        "day": "15",
-        "month": "11",
-        "year": "2017"
-      },
-      "text": {
-        "headline": "Version 4.9",
-        "text": "<ol><li>Draft and Schedule Site Design Customizations</li><li>The New Gallery Widget</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "https://make.wordpress.org/core/files/2017/10/gutenberg-typing-1_6.gif"
-      },
-      "start_date": {
-        "month": "9",
-        "year": "2018"
-      },
-      "text": {
-        "headline": "Version 5",
-        "text": "<ol><li>Gutenberg</li></ol>"
-      }
-    },
-    {
-      "media": {
-        "url": "./img/wpholiday-wordpress-desktop-2880x1800.jpg"
-      },
-      "start_date": {
-        "month": "01",
-        "year": "2019"
-      },
-      "text": {
-        "headline": "Summary",
-        "text": "<ol><li>Start with passion.</li><li>Responsibility and vision: GPL and Automattic</li><li>Focus on simplicity for users who do not know much about technology.</li><li>Developed regularly and actively.</li></ol>"
-      }
+    "text": {
+      "headline": "Movable Type launched",
+      "text": "<p>Movable Type is a blogging platform.</p>"
     }
+  },
+  {
+    "media": {
+      "url": "/img/b2admin.png",
+      "caption": "The b2 use interface",
+      "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md'>github.com/WordPress/book</a>"
+    },
+    "start_date": {
+      "month": "06",
+      "year": "2001"
+    },
+    "text": {
+      "headline": "b2",
+      "text": "<p>Michel released b2 at Corsica powered by PHP and MySQL.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/matt-first-post.png",
+      "caption": "Matt's first post",
+      "credit": "<a href='https://ma.tt/2002/02/testing-new-system/'>https://ma.tt/2002/02/testing-new-system/</a>"
+    },
+    "start_date": {
+      "day": "06",
+      "month": "02",
+      "year": "2002"
+    },
+    "text": {
+      "headline": "Matt Mullenweg's first post",
+      "text": "<p>Matt Mullenweg published his <a href='https://ma.tt/2002/02/testing-new-system/' target='_blank'>first blog post</a> with Movable Type.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/mike-first-post.png",
+      "caption": "Mike's first post",
+      "credit": "<a href='https://journalized.zed1.com/archives/2002/04/21/welcome/'>https://journalized.zed1.com/archives/2002/04/21/welcome/</a>"
+    },
+    "start_date": {
+      "day": "21",
+      "month": "04",
+      "year": "2002"
+    },
+    "text": {
+      "headline": "Mike Little's first post",
+      "text": "<p>A few months later, Mike Little published his first post with <strong>b2</strong></p>"
+    }
+  },
+  {
+    "start_date": {
+      "year": "2003"
+    },
+    "text": {
+      "headline": "b2's trouble",
+      "text": "<p>Michel <a href='https://zengun.org/weblog/archives/2002/05/jobless/' target='_blank'>lost his job</a> and never went back to b2.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "<blockquote>Matt, If you’re serious about forking b2 I would be interested in contributing. I’m sure there are one or two others in the community who would be too. Perhaps a post to the B2 forum, suggesting a fork would be a good starting point.</blockquote>",
+      "caption": "Mike responsed on the Matt's post",
+      "credit": "<a href='https://ma.tt/2003/01/the-blogging-software-dilemma/#comment-445'>https://ma.tt/2003/01/the-blogging-software-dilemma/#comment-445</a>"
+    },
+    "start_date": {
+      "day": "01",
+      "month": "04",
+      "year": "2003"
+    },
+    "text": {
+      "headline": "Matt forked b2",
+      "text": "<p>On April 1, 2003, Matt created a new branch of b2 on SourceForge.</p><p><em>Matt was not the only one who forked b2, there was many developers that forked b2 to create their own platform.</em></p>"
+    }
+  },
+  {
+    "start_date": {
+      "day": "27",
+      "month": "05",
+      "year": "2003"
+    },
+    "text": {
+      "headline": "WordPress 0.7 was released",
+      "text": "<p>As the first official public release of WordPress.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/plugin-directory-2005.jpg",
+      "caption": "The first version of the WordPress Plugin Directory, in late 2005",
+      "credit": "<a href='https://github.com/WordPress/book/blob/master/Content/Part%202/11-birth-of-wp-hackers.md' target='_blank'>https://github.com/WordPress/book</a>"
+    },
+    "start_date": {
+      "day": "22",
+      "month": "05",
+      "year": "2004"
+    },
+    "text": {
+      "headline": "WordPress 1.2 launched",
+      "text": "<p>Plugins were introduced, the first plugin is Hello Dolly.<br/>Internationalization was another major advancement.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/kubrick.jpg",
+      "caption": "The default theme of WordPress until 2010"
+    },
+    "start_date": {
+      "year": "2005"
+    },
+    "text": {
+      "headline": "WordPress 1.5 launched",
+      "text": "<p>WordPress 1.5 got its theme system.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/a-new-logo.jpg",
+      "caption": "The final logo design"
+    },
+    "start_date": {
+      "day": "15",
+      "month": "05",
+      "year": "2005"
+    },
+    "text": {
+      "headline": "A new logo",
+      "text": "<p>The logo was finally decided on May 15th, when Matt sent an email to the mailing list with the subject <strong>I think this is it</strong>.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/wordpress-2-0.png",
+      "caption": "WordPress 2.0 admin interface",
+      "credit": "<a href='http://www.wpbeginner.com/news/the-history-of-wordpress/'>http://www.wpbeginner.com/news/the-history-of-wordpress/</a>"
+    },
+    "start_date": {
+      "month": "12",
+      "year": "2005"
+    },
+    "text": {
+      "headline": "WordPress 2.0",
+      "text": "<p>WordPress 2.0 was released with a new admin dashboard.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/wcsf_2006_sotw_matt.jpg",
+      "caption": "Matt giving his State of the Word presentation. (cc license Scott Beale (Laughing Squid))"
+    },
+    "start_date": {
+      "year": "2006"
+    },
+    "text": {
+      "headline": "The first WordCamp",
+      "text": "<p>It was WordPress San Francisco in 2006.</p>"
+    }
+  },
+  {
+    "start_date": {
+      "year": "2007"
+    },
+    "text": {
+      "headline": "WordPress 2.2",
+      "text": "<p>Introduced the Widgets.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/wordpress-2-5.jpg",
+      "caption": "WordPress 2.5 admin interface",
+      "credit": "<a href='http://www.blogbloke.com/wordpress-25-released-come-get-yours/' target='_blank'>http://www.blogbloke.com/wordpress-25-released-come-get-yours/</a>"
+    },
+    "start_date": {
+      "day": "29",
+      "month": "03",
+      "year": "2008"
+    },
+    "text": {
+      "headline": "WordPress 2.5",
+      "text": "<p>It was released with a new administration UI design by Happy Cog, and introduced the dashboard widget system and the shortcode API.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/wordpress-2-7.png",
+      "caption": "WordPress 2.7 admin interface",
+      "credit": "<a href='https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/' target='_blank'>https://www.davidtan.org/new-dashboard-and-eye-candy-for-wordpress-27/</a>"
+    },
+    "start_date":
+    {
+      "day": "10",
+      "month": "12",
+      "year": "2008"
+    },
+    "text": {
+      "headline": "WordPress 2.7",
+      "text": "<p>Redesigned the administration UI to improve usability and make the admin tool more customizable. Version 2.7 also introduced automatic upgrading, built-in plugin installation, sticky posts, comment threading/paging/replies and a new API, bulk management, and inline documentation.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/wordpress-2-8.png",
+      "caption": "WordPress 2.8 introduced a built-in theme installer and an improved widget UI and API",
+      "credit": "<a href='https://op111.net/2009/05/23/wordpress-28/' target='_blank'>https://op111.net/2009/05/23/wordpress-28/</a>"
+    },
+    "start_date": {
+      "day": "10",
+      "month": "06",
+      "year": "2009"
+    },
+    "text": {
+      "headline": "WordPress 2.8",
+      "text": "<p>In a post titled “2.8 Release Jazzes Themes and Widgets“, Matt said, “2.8 represents a nice fit and finish release for WordPress with improvements to themes, widgets, taxonomies and overall speed.” In addition, the release came with improved admin icons, new Screen Options and a long-deprecated feature known as Turbo among others. But even with these changes and improvements to the widget and theme systems, very little changed in terms of UI.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/wordpress-2-9.jpg",
+      "caption": "WordPress 2.9 (Carmen) introduced image editing, a Trash/Undo feature, bulk plugin updating, and oEmbed support.",
+      "credit": "<a href='https://www.wpexplorer.com/history-wordpress-ui/' target='_blank'>https://www.wpexplorer.com/history-wordpress-ui//</a>"
+    },
+    "start_date": {
+      "day": "18",
+      "month": "12",
+      "year": "2009"
+    },
+    "text":
+    {
+      "headline": "WordPress 2.9",
+      "text": "<p>In terms of user interface, there were insignificant changes (if any). However, just like any major release, WordPress 2.9 came with a couple of great features such as super-easy video embeds, built-in image editor, better SEO, <strong>automatic database optimization</strong>. You could also bring deleted posts back from the “grave” with the undo/”trash” feature.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/2011.jpg",
+      "caption": "Twenty Ten",
+      "credit": "<a href='https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/' target='_blank'>https://www.bloggingpro.com/archives/2010/04/01/twenty-ten-the-new-and-improved-default-wordpress-theme/</a>"
+    },
+    "start_date": {
+      "day": "17",
+      "month": "06",
+      "year": "2010"
+    },
+    "text": {
+      "headline": "WordPress 3.0",
+      "text": "<p>It introduced custom post types, made custom taxonomies simpler, added custom menu management, added new API's for custom headers and custom backgrounds, introduced a new default theme called <strong>Twenty Ten</strong> (which started the tradition of a new default theme for each year) and allowed the management of multiple sites (called MultiSite).</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/wordpress-3-1.png",
+      "caption": "WordPress 3.1 Reinhardt",
+      "credit": "<a href='https://www.wpexplorer.com/history-wordpress-ui/' target='_blank'>https://www.wpexplorer.com/history-wordpress-ui/</a>"
+    },
+    "start_date": {
+      "day": "23",
+      "month": "02",
+      "year": "2011"
+    },
+    "text": {
+      "headline": "WordPress 3.1",
+      "text": "<p>It introduced introduced post format and the admin bar. After releasing WordPress 3.1, Matt declared, “…WordPress is more of a CMS than ever before. The only limit to what you can build is your imagination.” The public started seeing the potential of WordPress as a CMS at about this time. o help you achieve your online publishing dreams, 3.1 shipped with a couple of cool features such as a streamlined post editor, improved linking workflow so you can link to older content and the Admin bar among other features. Over 2k commits went into the making of WordPress 3.1. It was an exciting time I tell you.</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/wordpress-3-8.jpg",
+      "caption": "New design",
+      "credit": "<a href='https://easywpguide.com/2013/12/first-look-wordpress-3-8/' target='_blank'>https://easywpguide.com/2013/12/first-look-wordpress-3-8/</a>"
+    },
+    "start_date": {
+      "day": "12",
+      "month": "12",
+      "year": "2013"
+    },
+    "text": {
+      "headline": "WordPress 3.8 - Parker<br />Introduced a modern new design",
+      "text": "<p>WordPress has gotten a facelift. 3.8 brings a fresh new look to the entire admin dashboard. Gone are overbearing gradients and dozens of shades of grey — bring on a bigger, bolder, more colorful design!</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/wordcamp-hanoi-2014.png",
+      "caption": "WordCamp Hanoi 2014"
+    },
+    "start_date": {
+      "year": "2014"
+    },
+    "text": {
+      "headline": "WordCamp Hanoi 2014",
+      "text": "<p>The First WordCamp in Vietnam</p><p><em>It was the special event that marked the growth up of Vietnamese WordPress Community. So I decided to put it in this timeline.</em></p>"
+    }
+  },
+  {
+    "media": {
+      "url": "https://videos.files.wordpress.com/AHz0Ca46/wp4-7-vaughan-r8-mastered_hd.mp4"
+    },
+    "start_date": {
+      "day": "06",
+      "month": "12",
+      "year": "2016"
+    },
+    "text": {
+      "headline": "Version 4.7",
+      "text": "<ol><li>REST API</li><li>Post Type Templates</li><li>Customizer Improvements</li></ol>"
+    }
+  },
+  {
+    "media": {
+      "url": "/img/graphusers.png"
+    },
+    "start_date": {
+      "month": "02",
+      "year": "2017"
+    },
+    "text": {
+      "headline": "58.7%",
+      "text": "<p>58.7% of all the websites whose content management systems are known run WordPress</p><p>This is over 27% of the top 10 million websites.</p><p>Source: https://w3techs.com/technologies/overview/content_management/all/</p>"
+    }
+  },
+  {
+    "media": {
+      "url": "https://codex.wordpress.org/images/thumb/8/8f/widgets-with-all-four.png/800px-widgets-with-all-four.png"
+    },
+    "start_date": {
+      "day": "08",
+      "month": "06",
+      "year": "2017"
+    },
+    "text": {
+      "headline": "Version 4.8",
+      "text": "<ol><li>Dream widgets have been added: Image, video, audio, rich text.</li><li>Nearby WordPress Events</li></ol>"
+    }
+  },
+  {
+    "media": {
+      "url": "https://codex.wordpress.org/images/b/b6/customizer4_9-schedule.jpg"
+    },
+    "start_date": {
+      "day": "15",
+      "month": "11",
+      "year": "2017"
+    },
+    "text": {
+      "headline": "Version 4.9",
+      "text": "<ol><li>Draft and Schedule Site Design Customizations</li><li>The New Gallery Widget</li></ol>"
+    }
+  },
+  {
+    "media": {
+      "url": "https://make.wordpress.org/core/files/2017/10/gutenberg-typing-1_6.gif",
+      "caption": "WordPress 5.0 with Gutenberg - the new block editor",
+      "credit": "<a href='https://make.wordpress.org/core/5-0/' target='_blank'>https://make.wordpress.org/core/5-0/</a>"
+    },
+    "start_date": {
+      "day": "19",
+      "month": "11",
+      "year": "2018"
+    },
+    "text": {
+      "headline": "Version 5.0",
+      "text": "<p>As per <a href='https://make.wordpress.org/core/5-0/' target='_blank'>WordPress 5.0 Development Cycle</a> page, WordPress 5.0 is schedule to be released on November 19, 2018. It will be the major release of 2018, including the new block editor, and the Twenty Nineteen theme.</p><ol><li>Gutenberg - new block editor</li><li>Twenty Nineteen theme</li></ol>"
+    }
+  },
+  {
+    "media": {
+      "url": "./img/wpholiday-wordpress-desktop-2880x1800.jpg"
+    },
+    "start_date": {
+      "month": "01",
+      "year": "2019"
+    },
+    "text": {
+      "headline": "Summary",
+      "text": "<ol><li>Start with passion.</li><li>Responsibility and vision: GPL and Automattic</li><li>Focus on simplicity for users who do not know much about technology.</li><li>Developed regularly and actively.</li></ol>"
+    }
+  }
   ]
 }
+
