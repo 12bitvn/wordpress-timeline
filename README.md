@@ -1,5 +1,7 @@
 # WordPress Timeline
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/12bitvn/wordpress-timeline.svg)](https://greenkeeper.io/)
+
 The brief history of WordPress.
 
 ## Contribute
