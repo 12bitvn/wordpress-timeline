@@ -622,9 +622,9 @@
     },
     {
       "media": {
-        "url": "https://cdn3.wpbeginner.com/wp-content/uploads/2019/09/whatscominginwp53.png",
+        "url": "https://i1.wp.com/wordpress.org/news/files/2019/11/5.3-album-cover.png",
         "caption": "WordPress 5.3 - New Blocks, New APIs, Improved Admin UI",
-        "credit": "<a href='https://www.wpbeginner.com/news/whats-coming-in-wordpress-5-3-features-and-screenshots/' target='_blank'>https://www.wpbeginner.com/news/whats-coming-in-wordpress-5-3-features-and-screenshots/</a>"
+        "credit": "<a href='https://wordpress.org/news/2019/11/kirk/' target='_blank'>https://wordpress.org/news/2019/11/kirk//</a>"
       },
       "start_date": {
         "day": "12",
@@ -632,8 +632,8 @@
         "year": "2019"
       },
       "text": {
-        "headline": "WordPress 5.3",
-        "text": "<p>As per <a href='https://make.wordpress.org/core/5-3/' target='_blank'>WordPress 5.3 Development Cycle</a> page, WordPress 5.3 will be the final major release of 2019 and aims to polish current interactions and make the UIs more user friendly.</p><ol><li>Design and User Interface updates</li><li>New and improved blocks</li><li>Improved image uploads</li><li>Twenty Twenty theme</li></ol>"
+        "headline": "WordPress 5.3 (Code name: Kirk)",
+        "text": "<p><a href='https://wordpress.org/news/2019/11/kirk/' target='_blank'>WordPress 5.3</a> is the final major release of 2019. It aims to polish current interactions and make the UIs more user friendly.</p><ol><li>Block Editor Improvements</li><li>Expanded Design Flexibility</li><li>Automatic Image Rotation</li><li>Improved Site Health Checks</li><li>Admin Email Verification</li><li>Twenty Twenty theme</li></ol>"
       }
     },
     {
