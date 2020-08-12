@@ -20,3 +20,7 @@
 .tl-timeline ul {
   font-size: 18px;
 }
+
+.tl-media-content img {
+  border-radius: 15px;
+}
