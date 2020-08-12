@@ -648,6 +648,22 @@
         "headline": "Summary",
         "text": "<ol><li>Start with passion.</li><li>Responsibility and vision: GPL and Automattic</li><li>Focus on simplicity for users who do not know much about technology.</li><li>Developed regularly and actively.</li></ol>"
       }
+    },
+    {
+      "media": {
+        "url": "https://i0.wp.com/wordpress.org/news/files/2020/08/Billy_duotone-1000px_quiche-sans-top.png?w=1000&ssl=1",
+        "caption": "In WordPress 5.5, your site gets new power in three major areas: speed, search, and security.",
+        "credit": "<a href='https://wordpress.org/news/2020/08/eckstine/'>https://wordpress.org/news/2020/08/eckstine/</a>"
+      },
+      "start_date": {
+        "day": "11",
+        "month": "08",
+        "year": "2020"
+      },
+      "text": {
+        "headline": "WordPress 5.5 “Eckstine”",
+        "text": "<ol><li>Posts and pages feel faster, thanks to lazy-loaded images.</li><li>Say hello to your new sitemap.</li><li>Auto-updates for Plugins and Themes.</li><li><a href='https://wordpress.org/news/2020/08/eckstine/' target='_blank'>Check more</a></li></ol>"
+      }
     }
   ]
 }
