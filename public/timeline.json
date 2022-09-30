@@ -661,8 +661,88 @@
         "year": "2020"
       },
       "text": {
-        "headline": "WordPress 5.5 “Eckstine”",
+        "headline": "WordPress 5.5 (Code name: Eckstine)",
         "text": "<ol><li>Posts and pages feel faster, thanks to lazy-loaded images.</li><li>Say hello to your new sitemap.</li><li>Auto-updates for Plugins and Themes.</li><li><a href='https://wordpress.org/news/2020/08/eckstine/' target='_blank'>Check more</a></li></ol>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://wordpress.org/support/files/2020/12/wordpress-5-6_cover-a11y-1022x1024.jpg",
+        "caption": "WordPress 5.6 brings you countless ways to set your ideas free and bring them to life.",
+        "credit": "<a href='https://wordpress.org/news/2020/12/simone/'>https://wordpress.org/news/2020/12/simone/</a>"
+      },
+      "start_date": {
+        "day": "8",
+        "month": "12",
+        "year": "2020"
+      },
+      "text": {
+        "headline": "WordPress 5.6 (Code name: Simone)",
+        "text": "<ol><li>New theme: Twenty Twenty-One.</li><li>Greater layout flexibility.</li><li>More block patterns.</li><li>Better video captioning.</li><li><a href='https://wordpress.org/news/2020/12/simone/' target='_blank'>Check more</a></li></ol>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://wordpress.org/support/files/2021/03/wp57-image.png",
+        "caption": "With version 5.7, WordPress brings you fresh colors.",
+        "credit": "<a href='https://wordpress.org/news/2021/03/esperanza/'>https://wordpress.org/news/2021/03/esperanza/</a>"
+      },
+      "start_date": {
+        "day": "9",
+        "month": "3",
+        "year": "2021"
+      },
+      "text": {
+        "headline": "WordPress 5.7 (Code name: Esperanza)",
+        "text": "<ol><li>Easier to use new editor.</li><li>You can do more without writing custom code.</li><li>A simpler default color palette.</li><li>From HTTP to HTTPS in a single click.</li><li>New Robots API.</li><li>Lazy-load your iFrames.</li><li><a href='https://wordpress.org/news/2021/03/esperanza/' target='_blank'>Check more</a></li></ol>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://i0.wp.com/wordpress.org/news/files/2021/07/5x8-Album-1.jpg",
+        "caption": "WordPress 5.8 will ship with the new template editor, a step towards creating a full site editing tool using the block editor.",
+        "credit": "<a href='https://wordpress.org/news/2021/07/tatum/'>https://wordpress.org/news/2021/07/tatum/</a>"
+      },
+      "start_date": {
+        "day": "20",
+        "month": "7",
+        "year": "2021"
+      },
+      "text": {
+        "headline": "WordPress 5.8 (Code name: Tatum)",
+        "text": "<ol><li>Manage Widgets with Blocks.</li><li>Display Posts with New Blocks and Patterns.</li><li>Edit the Templates Around Posts.</li><li>Overview of the Page Structure.</li><li>Suggested Patterns for Blocks.</li><li>Style and Colorize Images.</li><li><a href='https://wordpress.org/news/2021/07/tatum/' target='_blank'>Check more</a></li></ol>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://i2.wp.com/wordpress.org/news/files/2022/01/5-9-release-1.png",
+        "caption": "WordPress 5.9 puts you in control of your whole site, right in the WordPress Admin: Full site editing is here!",
+        "credit": "<a href='https://wordpress.org/news/2022/01/josephine/'>https://wordpress.org/news/2022/01/josephine/</a>"
+      },
+      "start_date": {
+        "day": "25",
+        "month": "1",
+        "year": "2022"
+      },
+      "text": {
+        "headline": "WordPress 5.9 (Code name: Josephine)",
+        "text": "<ol><li>Full site editing is here.</li><li>New theme: Twenty Twenty-Two.</li><li>Your personal paintbox awaits.</li><li>The Navigation block.</li><li>Better block controls.</li><li>The power of patterns.</li><li>A revamped List View.</li><li>A better Gallery block.</li><li><a href='https://wordpress.org/news/2022/01/josephine/' target='_blank'>Check more</a></li></ol>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://i2.wp.com/wordpress.org/news/files/2022/05/Writing-Improvements-1.png",
+        "caption": "With version 6.0, WordPress brings you many stability, performance, and usability enhancements today.",
+        "credit": "<a href='https://wordpress.org/news/2022/05/arturo/'>https://wordpress.org/news/2022/05/arturo/</a>"
+      },
+      "start_date": {
+        "day": "24",
+        "month": "5",
+        "year": "2022"
+      },
+      "text": {
+        "headline": "WordPress 6.0 (Code name: Arturo)",
+        "text": "<ol><li>Improved Performance in WordPress 6.0.</li><li>Enhancing WordPress 6.0 Accessibility.</li><li>Enhanced Writing Experience.</li><li>Style Switching.</li><li>More Template Choices.</li><li>Integrated Patterns.</li><li>Additional Design Tools.</li><li>Better List View.</li><li>Block Locking Controls.</li><li><a href='https://wordpress.org/news/2022/05/arturo/' target='_blank'>Check more</a></li></ol>"
       }
     }
   ]
